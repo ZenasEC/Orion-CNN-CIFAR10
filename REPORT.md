@@ -1,4 +1,7 @@
 # Systematic Evaluation of Data Augmentation Strategies for CNN-based Image Classification on CIFAR-10
+*Catatan untuk dosen pengampu: Jika file .ipynb tidak dapat dimuat/dirender oleh GitHub, Bapak/Ibu dapat melihat dan menjalankan langsung kodingan eksperimen ini melalui tautan Google Colab berikut:*
+
+[> Klik di sini untuk membuka kodingan di Google Colab <](https://colab.research.google.com/drive/1RVQWGu1zA4Fwl25tFVhvrLuyYzep41ia?usp=sharing)
 
 ## 1. Dataset yang Digunakan
 Eksperimen ini menggunakan dataset **CIFAR-10**, yang terdiri dari 60.000 gambar berwarna berukuran 32x32 piksel yang terbagi ke dalam 10 kelas (pesawat, mobil, burung, kucing, rusa, anjing, katak, kuda, kapal, dan truk).
